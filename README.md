@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg) -->
-Junior BackEnd 
+Junior Backend Developer
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
 </p>  
@@ -14,18 +14,17 @@ Junior BackEnd
 ![Rivaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivaldz&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivaldz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rivaldz&theme=neon-palenight&hide_border=true)
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 
+<!-- ## My Repos
 
-## My Repos
-<!-- 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=shinokada&show_owner=true)](https://github.com/shinokada/shinokada)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=Rivaldz&repo=shinokada&show_owner=true)](https://github.com/shinokada/shinokada)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=Rivaldz&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install) -->
 
