@@ -3,22 +3,18 @@
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
 </p>   -->
 <h2 align="center">Hi there 👋, I'm Rivaldo</h2>
-<h3 align="center">Mobile & Fullstack Junior Programmer</h3>
+<h2 align="center">Mobile & Fullstack Junior Programmer</h2>
 
 
 <!-- <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/> -->
-<h4>Github Stats </h4>
-<!-- <br class="divider"> -->
+<h2>Github Stats </h2>
 
 ![Rivaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivaldz&show_icons=true&theme=tokyonight)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivaldz&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivaldz&langs_count=8)](https://github.com/Rivaldz/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rivaldz&theme=neon-palenight&hide_border=true)
 
