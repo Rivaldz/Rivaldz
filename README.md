@@ -32,6 +32,7 @@
 <h4>Coding Activity</h4>
 
 [![Rivaldo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rivald)](https://github.com/Rivaldz/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@Rivald/f672c8e5-0c5f-4863-bab5-791e69c1023c.svg"></embed></figure>
 
 
 **Languages and Tools:**  
