@@ -3,7 +3,7 @@
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
 </p>   -->
 <h2 align="center">Hi there 👋, I'm Rivaldo
-<h3 align="center">Mobile & Fullstack Junior Programmer</h3>
+<h3 align="center">Fullstack Junior Programmer</h3>
 </h2>
 
 
