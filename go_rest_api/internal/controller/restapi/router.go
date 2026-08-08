@@ -21,7 +21,6 @@ import (
 //	@title       Go Clean Template API
 //	@description Multi-domain clean architecture template with translation, user, and task management
 //	@version     1.0
-//	@host        localhost:8080
 //	@BasePath    /v1
 //	@securityDefinitions.apikey BearerAuth
 //	@in header

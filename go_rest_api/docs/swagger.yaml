@@ -294,7 +294,6 @@ definitions:
     required:
     - title
     type: object
-host: localhost:8080
 info:
   contact: {}
   description: Multi-domain clean architecture template with translation, user, and
